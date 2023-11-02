@@ -13,26 +13,26 @@ In the world of data science and machine learning, understanding data preprocess
 1. Univariate Analysis
 2. Bivariate Analysis
 3. Using Pandas Profiling
-4. Feature Scaling
-   - Standardization
-   - Normalization
+4. Feature Scaling (Standardization and Normalization)
 5. Ordinal Encoding
 6. One-Hot Encoding
-7. Column Transformer
-8. Scikit-Learn Pipelines
-9. Functional Transformer
-10. Power Transformer
-11. Box-Cox Transformation
-12. Yeo-Johnson Transformation
-13. Discretization and Binarization
-14. Handling Mixed Variables
-15. Handling Date and Time Data
-16. Handling Missing Data
-   - Simple Imputer
-   - Missing Indicator
-   - k-Nearest Neighbors (KNN) Imputer
-   - MICE (Multivariate Imputation by Chained Equations) Imputer
-   - And more...
+7. Column Transformer and Sklearn Pipelines
+8. Functional Transformer
+9. Power Transformer, Box-Cox, Yeo-Johnson
+10. Discretization and Binarization
+11. Handling Mixed Variables
+12. Handling Date and Time Data
+13. Handling Missing Data
+14. Handling Numerical and Categorical Data
+15. Simple Imputer, Missing Indicator, KNN Imputer, MICE (Iterative Imputer)
+16. Outlier Detection
+17. Feature Construction and Feature Splitting
+18. Principal Component Analysis (PCA)
+19. Simple Linear Regression
+20. Regression Metrics
+21. Multiple Linear Regression
+
+Additional folders will be added over time, each containing detailed explanations and source code for machine learning algorithms and techniques.
 
 ## Getting Started
 
